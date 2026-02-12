@@ -4,7 +4,6 @@
 📌Project Overview:-
 
 ->This project focuses on designing and implementing a Data Warehouse to store structured business data and performing data analytics to generate meaningful insights for decision-making.
-
 ->The project covers data modeling, ETL processes, SQL analysis, and reporting.
 
 🎯 Objectives:-
