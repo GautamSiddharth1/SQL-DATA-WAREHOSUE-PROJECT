@@ -21,6 +21,7 @@
 * Data Warehouse → Fact and Dimension tables
 * Analytics Layer → SQL queries & reports
 
-👤 About Me
+👤 About Me:-
+
 I am Gautam Shiddhartha, a final-year B.Tech student with a strong interest in Data Warehousing, Data Analytics, and SQL.
 I enjoy working with structured data, writing optimized SQL queries, and building end-to-end data solutions that help in decision-making.
